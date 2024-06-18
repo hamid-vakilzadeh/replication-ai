@@ -1,0 +1,5 @@
+crewai==0.30.11
+crewai[tools]
+wrds==3.2.0
+
+
